@@ -1,7 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "prettier.printWidth": 100,
-  "emmet.includeLanguages": {
-  "erb": "html"
-  }
-}
